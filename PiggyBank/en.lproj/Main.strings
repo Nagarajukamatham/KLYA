@@ -1,0 +1,384 @@
+
+/* Class = "UITextField"; placeholder = "10 Digit Mobile Number"; ObjectID = "00Q-pT-3uk"; */
+"00Q-pT-3uk.placeholder" = "10 Digit Mobile Number";
+
+/* Class = "UINavigationItem"; title = "NB KLYA"; ObjectID = "0X6-Ru-zbS"; */
+"0X6-Ru-zbS.title" = "NB KLYA";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "1Bl-rf-fdo"; */
+"1Bl-rf-fdo.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "1en-Ye-ahY"; */
+"1en-Ye-ahY.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "26S-q3-B11"; */
+"26S-q3-B11.text" = "Name";
+
+/* Class = "UINavigationItem"; title = "NB KLYA"; ObjectID = "2Ef-nw-VUR"; */
+"2Ef-nw-VUR.title" = "NB KLYA";
+
+/* Class = "UILabel"; text = "Amount :"; ObjectID = "2a5-QW-DQL"; */
+"2a5-QW-DQL.text" = "Amount :";
+
+/* Class = "UIButton"; normalTitle = "Transfer to KLYA"; ObjectID = "3MC-qZ-zo0"; */
+"3MC-qZ-zo0.normalTitle" = "Transfer to KLYA";
+
+/* Class = "UITextField"; placeholder = "Please enter description"; ObjectID = "3Wx-9k-Pik"; */
+"3Wx-9k-Pik.placeholder" = "Please enter description";
+
+/* Class = "UIButton"; normalTitle = " SETUP"; ObjectID = "3fy-Fa-VxG"; */
+"3fy-Fa-VxG.normalTitle" = " SETUP";
+
+/* Class = "UILabel"; text = "NB KLYA"; ObjectID = "4V0-TD-Svj"; */
+"4V0-TD-Svj.text" = "NB KLYA";
+
+/* Class = "UILabel"; text = "To :"; ObjectID = "4Xu-aT-MIl"; */
+"4Xu-aT-MIl.text" = "To :";
+
+/* Class = "UITextField"; placeholder = "4 Digit Pin"; ObjectID = "52j-zd-U00"; */
+"52j-zd-U00.placeholder" = "4 Digit Pin";
+
+/* Class = "UILabel"; text = "Transfer Money"; ObjectID = "68z-c9-yxt"; */
+"68z-c9-yxt.text" = "Transfer Money";
+
+/* Class = "UILabel"; text = "KLYA Setup"; ObjectID = "6wW-yN-m6d"; */
+"6wW-yN-m6d.text" = "KLYA Setup";
+
+/* Class = "UITextField"; placeholder = "6 Digit Transaction Pin"; ObjectID = "7IF-ST-KQx"; */
+"7IF-ST-KQx.placeholder" = "6 Digit Transaction Pin";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "7m4-EM-FiW"; */
+"7m4-EM-FiW.text" = "Login";
+
+/* Class = "UILabel"; text = "Your KLYA device is now connected to your mobile app, please confirm details and submit"; ObjectID = "8Ap-Qh-nkY"; */
+"8Ap-Qh-nkY.text" = "Your KLYA device is now connected to your mobile app, please confirm details and submit";
+
+/* Class = "UILabel"; text = "KLYA device has been updated successfully"; ObjectID = "8tp-dr-TX4"; */
+"8tp-dr-TX4.text" = "KLYA device has been updated successfully";
+
+/* Class = "UIButton"; normalTitle = "Update KLYA"; ObjectID = "93O-Js-o0c"; */
+"93O-Js-o0c.normalTitle" = "Update KLYA";
+
+/* Class = "UILabel"; text = "Leroy Toy"; ObjectID = "9L5-31-xii"; */
+"9L5-31-xii.text" = "Leroy Toy";
+
+/* Class = "UILabel"; text = "Please shake the KLYA to connect to the App"; ObjectID = "9S6-Xy-Fjm"; */
+"9S6-Xy-Fjm.text" = "Please shake the KLYA to connect to the App";
+
+/* Class = "UILabel"; text = "Set Goal"; ObjectID = "9dI-pu-e71"; */
+"9dI-pu-e71.text" = "Set Goal";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "AmV-v6-b3p"; */
+"AmV-v6-b3p.normalTitle" = "BACK";
+
+/* Class = "UINavigationItem"; title = "NB KLYA"; ObjectID = "AyL-tk-WPo"; */
+"AyL-tk-WPo.title" = "NB KLYA";
+
+/* Class = "UILabel"; text = "546789763467"; ObjectID = "B8t-IO-mbU"; */
+"B8t-IO-mbU.text" = "546789763467";
+
+/* Class = "UILabel"; text = "9999 $"; ObjectID = "B9L-qn-pWa"; */
+"B9L-qn-pWa.text" = "9999 $";
+
+/* Class = "UITextField"; placeholder = "10 Digit Mobile Number"; ObjectID = "Bjf-cE-qD8"; */
+"Bjf-cE-qD8.placeholder" = "10 Digit Mobile Number";
+
+/* Class = "UILabel"; text = "Wednesday, 21 March 2018"; ObjectID = "D4N-3y-Rqd"; */
+"D4N-3y-Rqd.text" = "Wednesday, 21 March 2018";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "DEM-2g-QtI"; */
+"DEM-2g-QtI.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DrJ-OT-e1I"; */
+"DrJ-OT-e1I.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "NB KLYA"; ObjectID = "E6r-WX-FRf"; */
+"E6r-WX-FRf.title" = "NB KLYA";
+
+/* Class = "UILabel"; text = "SignUp Details"; ObjectID = "EMM-lG-yaR"; */
+"EMM-lG-yaR.text" = "SignUp Details";
+
+/* Class = "UIButton"; normalTitle = "Update KLYA"; ObjectID = "GnY-W3-B5K"; */
+"GnY-W3-B5K.normalTitle" = "Update KLYA";
+
+/* Class = "UILabel"; text = "Amount :"; ObjectID = "GzK-Yx-UEQ"; */
+"GzK-Yx-UEQ.text" = "Amount :";
+
+/* Class = "UILabel"; text = "CONTACT NUMBER"; ObjectID = "I3F-Jr-WHn"; */
+"I3F-Jr-WHn.text" = "CONTACT NUMBER";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "IYf-gm-90r"; */
+"IYf-gm-90r.normalTitle" = "Skip";
+
+/* Class = "UILabel"; text = "Description :"; ObjectID = "Ifi-h8-VU3"; */
+"Ifi-h8-VU3.text" = "Description :";
+
+/* Class = "UILabel"; text = "Passcode"; ObjectID = "J4J-qw-eD0"; */
+"J4J-qw-eD0.text" = "Passcode";
+
+/* Class = "UITextField"; placeholder = "Re-Enter 4 Digit Pin"; ObjectID = "JPO-TC-wUB"; */
+"JPO-TC-wUB.placeholder" = "Re-Enter 4 Digit Pin";
+
+/* Class = "UIButton"; normalTitle = "Forgot Passcode?"; ObjectID = "K6x-hX-XEo"; */
+"K6x-hX-XEo.normalTitle" = "Forgot Passcode?";
+
+/* Class = "UILabel"; text = "Choose the account KLYA will be linked to and update the balance"; ObjectID = "KaW-hg-f9M"; */
+"KaW-hg-f9M.text" = "Choose the account KLYA will be linked to and update the balance";
+
+/* Class = "UINavigationItem"; title = "NB KLYA"; ObjectID = "KsQ-Dp-qIa"; */
+"KsQ-Dp-qIa.title" = "NB KLYA";
+
+/* Class = "UILabel"; text = "Not Connected"; ObjectID = "Leu-uK-bxI"; */
+"Leu-uK-bxI.text" = "Not Connected";
+
+/* Class = "UILabel"; text = "$ 12345.67"; ObjectID = "NUl-Y4-Jrj"; */
+"NUl-Y4-Jrj.text" = "$ 12345.67";
+
+/* Class = "UILabel"; text = "Please select Account number"; ObjectID = "Nk0-4s-LjL"; */
+"Nk0-4s-LjL.text" = "Please select Account number";
+
+/* Class = "UILabel"; text = "Select Account"; ObjectID = "O5z-sO-wMi"; */
+"O5z-sO-wMi.text" = "Select Account";
+
+/* Class = "UINavigationItem"; title = "NB KLYA"; ObjectID = "Oci-Wc-ctM"; */
+"Oci-Wc-ctM.title" = "NB KLYA";
+
+/* Class = "UIButton"; normalTitle = "Click here to LOGIN"; ObjectID = "PCY-iG-Goh"; */
+"PCY-iG-Goh.normalTitle" = "Click here to LOGIN";
+
+/* Class = "UILabel"; text = "Savings goal created Successful"; ObjectID = "PT0-ui-RST"; */
+"PT0-ui-RST.text" = "Savings goal created Successful";
+
+/* Class = "UITextField"; placeholder = "4 Digit Pin"; ObjectID = "Pxp-Un-mVa"; */
+"Pxp-Un-mVa.placeholder" = "4 Digit Pin";
+
+/* Class = "UIButton"; normalTitle = "Turn On"; ObjectID = "QvS-2D-N89"; */
+"QvS-2D-N89.normalTitle" = "Turn On";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QzU-YR-81d"; */
+"QzU-YR-81d.text" = "Label";
+
+/* Class = "UILabel"; text = "Link Account :"; ObjectID = "RDO-au-iUQ"; */
+"RDO-au-iUQ.text" = "Link Account :";
+
+/* Class = "UIButton"; normalTitle = "   SHOW"; ObjectID = "SBQ-1R-qkK"; */
+"SBQ-1R-qkK.normalTitle" = "   SHOW";
+
+/* Class = "UILabel"; text = "TRANSFER"; ObjectID = "SKM-CT-wgu"; */
+"SKM-CT-wgu.text" = "TRANSFER";
+
+/* Class = "UIButton"; normalTitle = "SET GOAL"; ObjectID = "TeH-3W-SrW"; */
+"TeH-3W-SrW.normalTitle" = "SET GOAL";
+
+/* Class = "UILabel"; text = "TRANSACTION PIN"; ObjectID = "TxG-5T-LK3"; */
+"TxG-5T-LK3.text" = "TRANSACTION PIN";
+
+/* Class = "UILabel"; text = "1 $"; ObjectID = "U7N-fL-08l"; */
+"U7N-fL-08l.text" = "1 $";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UEv-aU-z7I"; */
+"UEv-aU-z7I.text" = "Label";
+
+/* Class = "UILabel"; text = "Goal name :"; ObjectID = "UNd-QW-dbm"; */
+"UNd-QW-dbm.text" = "Goal name :";
+
+/* Class = "UILabel"; text = "Searching for KLYA"; ObjectID = "WJQ-Vj-why"; */
+"WJQ-Vj-why.text" = "Searching for KLYA";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WTq-9h-VVQ"; */
+"WTq-9h-VVQ.text" = "Label";
+
+/* Class = "UILabel"; text = "LOGIN PIN"; ObjectID = "WyI-QS-f9N"; */
+"WyI-QS-f9N.text" = "LOGIN PIN";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "XZ1-YR-h5f"; */
+"XZ1-YR-h5f.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "CONFIRM TRANSACTION PIN"; ObjectID = "Xwh-uW-A83"; */
+"Xwh-uW-A83.text" = "CONFIRM TRANSACTION PIN";
+
+/* Class = "UILabel"; text = "Please swipe the valide amount"; ObjectID = "YRr-RU-0mV"; */
+"YRr-RU-0mV.text" = "Please swipe the valide amount";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "YbV-Gp-x8c"; */
+"YbV-Gp-x8c.text" = "123";
+
+/* Class = "UILabel"; text = "Connected to :"; ObjectID = "YcM-jm-eZB"; */
+"YcM-jm-eZB.text" = "Connected to :";
+
+/* Class = "UITextField"; placeholder = "Re-Enter 6 Digit Transaction Pin"; ObjectID = "Yee-DY-tWb"; */
+"Yee-DY-tWb.placeholder" = "Re-Enter 6 Digit Transaction Pin";
+
+/* Class = "UILabel"; text = "CONTACT NUMBER"; ObjectID = "ZWm-Va-k6Y"; */
+"ZWm-Va-k6Y.text" = "CONTACT NUMBER";
+
+/* Class = "UITextField"; placeholder = "Please enter KLYA name"; ObjectID = "Zes-Yt-enl"; */
+"Zes-Yt-enl.placeholder" = "Please enter KLYA name";
+
+/* Class = "UILabel"; text = "No devices found, Please try again"; ObjectID = "Zf7-if-8Pl"; */
+"Zf7-if-8Pl.text" = "No devices found, Please try again";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Zmf-78-PgK"; */
+"Zmf-78-PgK.text" = "Label";
+
+/* Class = "UILabel"; text = "SOCIALLY CONNECTED WITH"; ObjectID = "Zoh-d9-6At"; */
+"Zoh-d9-6At.text" = "SOCIALLY CONNECTED WITH";
+
+/* Class = "UILabel"; text = "Lorey Pocket Money"; ObjectID = "aNc-PH-Tr0"; */
+"aNc-PH-Tr0.text" = "Lorey Pocket Money";
+
+/* Class = "UIButton"; normalTitle = "  Home"; ObjectID = "aaj-Lb-835"; */
+"aaj-Lb-835.normalTitle" = "  Home";
+
+/* Class = "UITextField"; placeholder = "Please enter Goal Name"; ObjectID = "bkm-MQ-0Q8"; */
+"bkm-MQ-0Q8.placeholder" = "Please enter Goal Name";
+
+/* Class = "UILabel"; text = "Avilable Balance"; ObjectID = "c7X-ZB-m47"; */
+"c7X-ZB-m47.text" = "Avilable Balance";
+
+/* Class = "UILabel"; text = "Transfer Successful"; ObjectID = "c9g-gt-lYG"; */
+"c9g-gt-lYG.text" = "Transfer Successful";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "dDS-dZ-O5E"; */
+"dDS-dZ-O5E.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Goal achieved"; ObjectID = "dFP-3P-PxN"; */
+"dFP-3P-PxN.text" = "Goal achieved";
+
+/* Class = "UILabel"; text = "to login to the app"; ObjectID = "dv5-MT-ukJ"; */
+"dv5-MT-ukJ.text" = "to login to the app";
+
+/* Class = "UITextField"; placeholder = "Please enter amount"; ObjectID = "e98-OY-Wb7"; */
+"e98-OY-Wb7.placeholder" = "Please enter amount";
+
+/* Class = "UILabel"; text = "CONFIRM"; ObjectID = "eQO-nO-Wgx"; */
+"eQO-nO-Wgx.text" = "CONFIRM";
+
+/* Class = "UILabel"; text = "Swiped amount"; ObjectID = "eof-t5-VQf"; */
+"eof-t5-VQf.text" = "Swiped amount";
+
+/* Class = "UILabel"; text = "Goal Amount :"; ObjectID = "etM-M3-Grs"; */
+"etM-M3-Grs.text" = "Goal Amount :";
+
+/* Class = "UILabel"; text = "SOCIALLY CONNECTED WITH"; ObjectID = "eyq-Sl-Pqv"; */
+"eyq-Sl-Pqv.text" = "SOCIALLY CONNECTED WITH";
+
+/* Class = "UILabel"; text = "Goal Date :"; ObjectID = "fKN-dl-kSf"; */
+"fKN-dl-kSf.text" = "Goal Date :";
+
+/* Class = "UINavigationItem"; title = "Searching.."; ObjectID = "gSk-fU-EAR"; */
+"gSk-fU-EAR.title" = "Searching..";
+
+/* Class = "UILabel"; text = "Amount :"; ObjectID = "ggG-fd-MzA"; */
+"ggG-fd-MzA.text" = "Amount :";
+
+/* Class = "UITextField"; placeholder = "Please enter Goal amount"; ObjectID = "h9T-sz-LkM"; */
+"h9T-sz-LkM.placeholder" = "Please enter Goal amount";
+
+/* Class = "UILabel"; text = "Nagaraju"; ObjectID = "hHa-EV-CP6"; */
+"hHa-EV-CP6.text" = "Nagaraju";
+
+/* Class = "UILabel"; text = "Please turn on device bluetooth to connect to the KLYA"; ObjectID = "hwS-6G-Hl6"; */
+"hwS-6G-Hl6.text" = "Please turn on device bluetooth to connect to the KLYA";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i2X-p5-vlN"; */
+"i2X-p5-vlN.text" = "Label";
+
+/* Class = "UILabel"; text = "LOGIN PIN"; ObjectID = "iAV-KS-TQq"; */
+"iAV-KS-TQq.text" = "LOGIN PIN";
+
+/* Class = "UILabel"; text = "$ 12345.67"; ObjectID = "ibi-xJ-e6T"; */
+"ibi-xJ-e6T.text" = "$ 12345.67";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "isf-0R-m8r"; */
+"isf-0R-m8r.normalTitle" = "PROCEED";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l2x-92-LFF"; */
+"l2x-92-LFF.text" = "Label";
+
+/* Class = "UILabel"; text = "Goal date :"; ObjectID = "l4c-fc-18C"; */
+"l4c-fc-18C.text" = "Goal date :";
+
+/* Class = "UILabel"; text = "SOCIALLY CONNECTED WITH"; ObjectID = "lnm-Oy-1WZ"; */
+"lnm-Oy-1WZ.text" = "SOCIALLY CONNECTED WITH";
+
+/* Class = "UILabel"; text = "Leroy Toy"; ObjectID = "m7a-LS-XHY"; */
+"m7a-LS-XHY.text" = "Leroy Toy";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "mGH-wD-mOU"; */
+"mGH-wD-mOU.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Updated"; ObjectID = "mRb-UR-lEu"; */
+"mRb-UR-lEu.text" = "Updated";
+
+/* Class = "UILabel"; text = "GOAL"; ObjectID = "mUU-zx-VNo"; */
+"mUU-zx-VNo.text" = "GOAL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mXj-Jg-FTh"; */
+"mXj-Jg-FTh.text" = "Label";
+
+/* Class = "UILabel"; text = "Extra to save :"; ObjectID = "mjr-lH-1AC"; */
+"mjr-lH-1AC.text" = "Extra to save :";
+
+/* Class = "UILabel"; text = "Description :"; ObjectID = "nFn-PT-GNq"; */
+"nFn-PT-GNq.text" = "Description :";
+
+/* Class = "UILabel"; text = "From :"; ObjectID = "nhw-lP-akL"; */
+"nhw-lP-akL.text" = "From :";
+
+/* Class = "UILabel"; text = "KLYA Name :"; ObjectID = "pGs-Ii-qSx"; */
+"pGs-Ii-qSx.text" = "KLYA Name :";
+
+/* Class = "UILabel"; text = "Turn On Bluetooth to Connect KLYA"; ObjectID = "pdU-0I-JuH"; */
+"pdU-0I-JuH.text" = "Turn On Bluetooth to Connect KLYA";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q6x-6Z-biJ"; */
+"q6x-6Z-biJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Amount to swipe"; ObjectID = "qHj-Fv-Egn"; */
+"qHj-Fv-Egn.text" = "Amount to swipe";
+
+/* Class = "UILabel"; text = "FULL NAME"; ObjectID = "qZ1-KO-cgq"; */
+"qZ1-KO-cgq.text" = "FULL NAME";
+
+/* Class = "UILabel"; text = "Goal Name :"; ObjectID = "qeR-s9-wRe"; */
+"qeR-s9-wRe.text" = "Goal Name :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qqZ-Si-RgC"; */
+"qqZ-Si-RgC.text" = "Label";
+
+/* Class = "UILabel"; text = "CONFIRM LOGIN PIN"; ObjectID = "qt4-UX-Own"; */
+"qt4-UX-Own.text" = "CONFIRM LOGIN PIN";
+
+/* Class = "UIButton"; normalTitle = "Click here to SignUp"; ObjectID = "rup-Ak-ROx"; */
+"rup-Ak-ROx.normalTitle" = "Click here to SignUp";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sky-pF-AIr"; */
+"sky-pF-AIr.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "taT-5q-KHo"; */
+"taT-5q-KHo.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Date :"; ObjectID = "tk0-Oz-3Aa"; */
+"tk0-Oz-3Aa.text" = "Date :";
+
+/* Class = "UINavigationItem"; title = "NB KLYA"; ObjectID = "uOZ-jV-D2r"; */
+"uOZ-jV-D2r.title" = "NB KLYA";
+
+/* Class = "UILabel"; text = "Balance :"; ObjectID = "vSf-z5-1A3"; */
+"vSf-z5-1A3.text" = "Balance :";
+
+/* Class = "UINavigationItem"; title = "NB KLYA"; ObjectID = "vyD-mJ-o6v"; */
+"vyD-mJ-o6v.title" = "NB KLYA";
+
+/* Class = "UILabel"; text = "$ 602,00"; ObjectID = "x6G-oy-YrN"; */
+"x6G-oy-YrN.text" = "$ 602,00";
+
+/* Class = "UILabel"; text = "SET GOAL"; ObjectID = "yNi-eb-8Te"; */
+"yNi-eb-8Te.text" = "SET GOAL";
+
+/* Class = "UILabel"; text = "SOCIALLY CONNECTED WITH"; ObjectID = "yXd-VX-x41"; */
+"yXd-VX-x41.text" = "SOCIALLY CONNECTED WITH";
+
+/* Class = "UILabel"; text = "Please swipe up amount to transfer KLYA"; ObjectID = "zUe-cl-eyY"; */
+"zUe-cl-eyY.text" = "Please swipe up amount to transfer KLYA";

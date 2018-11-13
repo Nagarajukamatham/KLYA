@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  PiggyBank
+
+  Created by Nagaraju on 16/05/18.
+  Copyright © 2018 Nagaraju. All rights reserved.
+        ----------->>>> "en" <<<<-----------
+*/
+
+"Click here to LOGIN" = "Click here to LOGIN";
+"This User is already Registered, Please login" = "This User is already Registered, Please login";
+"NEXT" = "NEXT";
+"PROCEED" = "PROCEED";
+"Please enter name with minimum 3 characters" = "Please enter name with minimum 3 characters";
+"Please enter 10 digit mobile number" = "Please enter 10 digit mobile number";
+"Please enter 4 digit login Pin" = "Please enter 4 digit login Pin";
+"Confirmation pin is not matched with login pin" = "Confirmation pin is not matched with login pin";
+"Please enter 6 digit transaction pin" = "Please enter 6 digit transaction pin";
+"Confirmation transaction pin is not matched with transaction Pin" = "Confirmation transaction pin is not matched with transaction Pin";
+"Click here to SignUp" = "Click here to SignUp";
+"This user is not yet sign up, Please sign up" = "This user is not yet sign up, Please sign up";
+"Please enter correct Login Pin" = "Please enter correct Login Pin";
+"   SHOW" = "   SHOW";
+"   HIDE" = "   HIDE";
+"Your login PIN is" = "Your login PIN is";
+"Please enter correct Login Pin" = "Please enter correct Login Pin";
+"Welcome" = "Welcome";
+"CONNECTED" = "CONNECTED";
+"SET NEW GOAL" = "SET NEW GOAL";
+"UPDATE GOAL" = "UPDATE GOAL";
+"SET GOAL" = "SET GOAL";
+"Searching for" = "Searching for";
+"KLYA" = "KLYA";
+"Searching for KLYA" = "Searching for KLYA";
+"Your Bluetooth is turnOff, Please go through settings and turnOn Bluetooth to search KLYA" = "Your Bluetooth is turnOff, Please go through settings and turnOn Bluetooth to search KLYA";
+"Searching.." = "Searching..";
+"Choose a KLYA" = "Choose a KLYA";
+"Please select the Account" = "Please select the Account";
+"Please transfer amount less then 10000" = "Please transfer amount less then 10000";
+"Please select goal date" = "Please select goal date";
+"Update goal" = "Update goal";
+"Please enter the goal amount more than the KLYA balance" = "Please enter the goal amount more than the KLYA balance";
+"Please select goal date" = "Please select goal date";
+"Please turnOn Bluetooth" = "Please turnOn Bluetooth";
+"Please enter the goal amount more than the KLYA balance" = "Please enter the goal amount more than the KLYA balance";
+"KLYA is updated successfully" = "KLYA is updated successfully";

@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  PiggyBank
+
+  Created by Nagaraju on 16/05/18.
+  Copyright © 2018 Nagaraju. All rights reserved.
+     ----------->>>> "pt-PT" <<<<-----------
+*/
+
+"Click here to LOGIN" = "empty";
+"This User is already Registered, Please login" = "empty";
+"NEXT" = "empty";
+"PROCEED" = "empty";
+"Please enter name with minimum 3 characters" = "empty";
+"Please enter 10 digit mobile number" = "empty";
+"Please enter 4 digit login Pin" = "empty";
+"Confirmation pin is not matched with login pin" = "empty";
+"Please enter 6 digit transaction pin" = "empty";
+"Confirmation transaction pin is not matched with transaction Pin" = "empty";
+"Click here to SignUp" = "empty";
+"This user is not yet sign up, Please sign up" = "empty";
+"Please enter correct Login Pin" = "empty";
+"   SHOW" = "empty";
+"   HIDE" = "empty";
+"Your login PIN is" = "empty";
+"Please enter correct Login Pin" = "empty";
+"Welcome" = "empty";
+"CONNECTED" = "empty";
+"SET NEW GOAL" = "empty";
+"UPDATE GOAL" = "empty";
+"SET GOAL" = "empty";
+"Searching for" = "empty";
+"KLYA" = "KLYA";
+"Searching for KLYA" = "empty";
+"Your Bluetooth is turnOff, Please go through settings and turnOn Bluetooth to search KLYA" = "empty";
+"Searching.." = "empty";
+"Choose a KLYA" = "empty";
+"Please select the Account" = "empty";
+"Please transfer amount less then 10000" = "empty";
+"Please select goal date" = "empty";
+"Update goal" = "empty";
+"Please enter the goal amount more than the KLYA balance" = "empty";
+"Please select goal date" = "empty";
+"Please turnOn Bluetooth" = "empty";
+"Please enter the goal amount more than the KLYA balance" = "empty";
+"KLYA is updated successfully" = "empty";
